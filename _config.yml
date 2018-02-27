@@ -1,0 +1,9 @@
+name: SRScottrick Blog
+description: Software and web design.
+author: SRScottrick
+author_email: srscottrick@gmail.com
+url: https://srscottrick.github.io
+permalink: pretty
+paginate: 4
+paginate: 3
+exclude: [README.markdown, Readme.org]
