@@ -1,3 +1,4 @@
+
 name: SRScottrick Blog
 description: Software and web design.
 author: SRScottrick
@@ -7,3 +8,4 @@ permalink: pretty
 paginate: 4
 paginate: 3
 exclude: [README.markdown, Readme.org]
+theme: jekyll-theme-cayman
