@@ -6,5 +6,5 @@ author_email: srscottrick@gmail.com
 url: https://srscottrick.github.io
 permalink: pretty
 paginate: 4
-exclude: [README.markdown, Readme.org]
+exclude: [README.markdown, Readme.org, README.md]
 theme: jekyll-theme-cayman
