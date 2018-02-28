@@ -6,3 +6,5 @@ url: https://srscottrick.github.io
 permalink: pretty
 paginate: 4
 exclude: [README.markdown, Readme.org, README.md]
+plugins:
+  - jekyll-paginate
