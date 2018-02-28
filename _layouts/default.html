@@ -9,6 +9,15 @@
   <body>
     <header role="header">
       <h1>{{ site.name }}</h1>
+      <nav>
+	<ul id="mainMenu">
+	  {% for p in site.mainMenu %}
+          <li class="{% if p.url == page.url %}active{% endif %}">
+            <a href="{{ p.url }}">{{ p.title }}</a>
+          </li>
+	  {% endfor %}
+	</ul>
+      </nav>
     </header>
     <main role="main">
       <article>

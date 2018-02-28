@@ -37,3 +37,15 @@ h6 {
 ul {
   list-style-type: none;
 }
+
+ul#mainMenu {
+  text-align: center;
+}
+
+ul#mainMenu li {
+  display: inline-block;
+}
+
+ul#mainMenu li.active {
+  background-color: red;
+}
