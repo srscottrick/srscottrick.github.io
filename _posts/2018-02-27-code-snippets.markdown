@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Code Snippets
 date: 2018-02-27
 ---
